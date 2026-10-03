@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-redirect-from
+
+# Add security headers
+sass:
+  sass_dir: _sass
+
+# GitHub Pages configuration
+url: "https://anishkumaar568.github.io"
+baseurl: "/spotify"
